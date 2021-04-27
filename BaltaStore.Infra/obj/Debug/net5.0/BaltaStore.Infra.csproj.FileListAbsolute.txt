@@ -1,0 +1,12 @@
+C:\Users\QRV\dev\BaltaStore\BaltaStore.Infra\bin\Debug\net5.0\BaltaStore.Infra.deps.json
+C:\Users\QRV\dev\BaltaStore\BaltaStore.Infra\bin\Debug\net5.0\BaltaStore.Infra.dll
+C:\Users\QRV\dev\BaltaStore\BaltaStore.Infra\bin\Debug\net5.0\ref\BaltaStore.Infra.dll
+C:\Users\QRV\dev\BaltaStore\BaltaStore.Infra\bin\Debug\net5.0\BaltaStore.Infra.pdb
+C:\Users\QRV\dev\BaltaStore\BaltaStore.Infra\obj\Debug\net5.0\BaltaStore.Infra.csprojAssemblyReference.cache
+C:\Users\QRV\dev\BaltaStore\BaltaStore.Infra\obj\Debug\net5.0\BaltaStore.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QRV\dev\BaltaStore\BaltaStore.Infra\obj\Debug\net5.0\BaltaStore.Infra.AssemblyInfoInputs.cache
+C:\Users\QRV\dev\BaltaStore\BaltaStore.Infra\obj\Debug\net5.0\BaltaStore.Infra.AssemblyInfo.cs
+C:\Users\QRV\dev\BaltaStore\BaltaStore.Infra\obj\Debug\net5.0\BaltaStore.Infra.csproj.CoreCompileInputs.cache
+C:\Users\QRV\dev\BaltaStore\BaltaStore.Infra\obj\Debug\net5.0\BaltaStore.Infra.dll
+C:\Users\QRV\dev\BaltaStore\BaltaStore.Infra\obj\Debug\net5.0\ref\BaltaStore.Infra.dll
+C:\Users\QRV\dev\BaltaStore\BaltaStore.Infra\obj\Debug\net5.0\BaltaStore.Infra.pdb
